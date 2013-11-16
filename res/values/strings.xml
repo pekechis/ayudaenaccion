@@ -4,9 +4,9 @@
     <string name="app_name">ayudaenaccion</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_apadrinados">Tus apadrinados</string>
-    <string name="action_mensaje">Enviar Mensaje</string>
-    <string name="action_conversacion">Ver Conversaciones</string>
+    <string name="action_apadrinados">Apadrinados</string>
+    <string name="action_datos">Datos Personales</string>
+    <string name="action_cuota">Aumentar Cuota</string>
     <string name="action_logout">Salir</string>
     
 

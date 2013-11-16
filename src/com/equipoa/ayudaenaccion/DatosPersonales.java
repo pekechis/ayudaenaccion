@@ -6,11 +6,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class MandarMensaje extends Activity {
+public class DatosPersonales extends Activity {
 
+	private Button mButtonMandar;
+	private Intent myIntent;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.mandar_mensajes);
+		setContentView(R.layout.datospersonales);
 	}
 }

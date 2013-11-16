@@ -6,15 +6,15 @@
         android:showAsAction="never"
         android:title="@string/action_apadrinados"/>    
     <item
-        android:id="@+id/mensaje"
+        android:id="@+id/datospersonales"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_mensaje"/>
+        android:title="@string/action_datos"/>
     <item
-        android:id="@+id/conversacion"
+        android:id="@+id/aumentarcuota"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_conversacion"/>
+        android:title="@string/action_cuota"/>
     <item
         android:id="@+id/logout"
         android:orderInCategory="100"
