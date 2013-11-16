@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ayudaenaccion</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_apadrinados">Tus apadrinados</string>
+    <string name="action_mensaje">Enviar Mensaje</string>
+    <string name="action_conversacion">Ver Conversaciones</string>
+    <string name="action_logout">Salir</string>
+    
+
+</resources>

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/apadrinados"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_apadrinados"/>    
+    <item
+        android:id="@+id/mensaje"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_mensaje"/>
+    <item
+        android:id="@+id/conversacion"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_conversacion"/>
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_logout"/>
+</menu>
