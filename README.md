@@ -6,13 +6,13 @@
 
 ###Desarrolladores: 
 
->Alejandro
->Jose Antonio
->Juan Diego
++Alejandro
++Jose Antonio
++Juan Diego
 
 ###Diseñador Gráfico: 
 
->Manuel
++Manuel
 
 ###Descripción: 
 
@@ -20,18 +20,18 @@ Apadrina con AyudaEnAcción es un propotipo desarrollado para el Hackaton del EB
 
 Los principales objetivos de esta aplicación son:
 
->Facilitar a los padrinos la escritura y respuesta de cartas a sus apadrinados.
->Mejorar la trazabilidad de los mensajes
->Facilitar la comunicación de AyudaEnAcción con sus asociados
->Fomentar la difusión de la actividad de AyudaEnAcción a través de sus socios y en las redes sociales.
++Facilitar a los padrinos la escritura y respuesta de cartas a sus apadrinados.
++Mejorar la trazabilidad de los mensajes
++Facilitar la comunicación de AyudaEnAcción con sus asociados
++Fomentar la difusión de la actividad de AyudaEnAcción a través de sus socios y en las redes sociales.
 
 ###Proceso
 
 >Fechas
 
->>Diseño de la idea: Viernes 15 de Noviembre (tarde)
->>Desarrollo del prototipo y de la presentación: Sábado 16 de Noviembre
->>Presentación de Proyecto: Domingo 17 de Noviembre
+>>++Diseño de la idea: Viernes 15 de Noviembre (tarde)
+>>++Desarrollo del prototipo y de la presentación: Sábado 16 de Noviembre
+>>++Presentación de Proyecto: Domingo 17 de Noviembre
 
 
 ###Agradecimientos
